@@ -1,0 +1,23 @@
+name: ClassTech
+favicon: null
+layout_spectrum: 0.16006890079006553
+typography_spectrum: 0.766337099019438
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.24679512321017683
+  lightness: 0.6559505886398256
+  saturation: 0.7182761388830841
+  rhythmicContrast: 0.5490215462632477
+purpose: []
